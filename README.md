@@ -4,9 +4,7 @@
 
 The **Sports Person Classifier** is a machine learning-based image classification project aimed at recognizing and classifying images of famous sports personalities. This project utilizes the concepts of image processing, wavelet transform, and machine learning techniques such as Support Vector Machines (SVM) for classification.
 
-![image_alt](https://github.com/iamanirudhnair/Sports_Person_Classifier/blob/main/Face%20Detection.png?raw=true)
-
-![image_alt](https://github.com/iamanirudhnair/Sports_Person_Classifier/blob/main/Model%20prediction.png?raw=true)
+![image_alt](https://github.com/iamanirudhnair/Real_Estate-Price_Predictor/blob/main/Screenshot%202025-03-09%20085500.png?raw=true)
 
 ## Features
 
